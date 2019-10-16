@@ -12,3 +12,9 @@ Week 1 tasks:
 - network packet processing simulation
 - extending stack interface
 - maximum in sliding window
+
+Week 2:
+- dynamic array
+- Amortized analysis
+
+Week 2 included only test, no programming assessment
