@@ -18,3 +18,23 @@ Week 2:
 - Amortized analysis
 
 Week 2 included only test, no programming assessment
+
+Week 3:
+- priority queues
+- disjoint sets 
+
+Week 3 tasks:
+- convert array into a heap
+- simulate parallel processing 
+- simulate a sequence of merge operations with tables
+
+Week 4: 
+- hashing
+
+Week 4 tasks:
+- realization of phone book with direct addressing
+- implement a hash table of words using the chaining scheme
+- find all occurrences of pattern in text using optimized Rabin-Karp's algorithm
+- comparison of substrings of given string 
+- find longest common substring of two strings [working not properly]
+- pattern matching with mismatches [not  solved]
