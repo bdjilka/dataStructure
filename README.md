@@ -11,7 +11,7 @@ Week 1 tasks:
 - compute tree height
 - network packet processing simulation
 - extending stack interface
-- maximum in sliding window
+- maximum in sliding window [time limit of 5 seconds not achieved]
 
 Week 2:
 - dynamic array
@@ -38,3 +38,19 @@ Week 4 tasks:
 - comparison of substrings of given string 
 - find longest common substring of two strings [working not properly]
 - pattern matching with mismatches [not  solved]
+
+Week 5: 
+- search trees
+- AVL trees
+
+Week 5 included only test, no programming assessment
+
+Week 6:
+- splay trees
+
+Week 6 tasks:
+- traversals of binary tree
+- binary search tree check for correctness
+- binary search tree with duplicates check for correctness
+- set with range sums [not attempted to solve]
+- rope cut [not attempted to solve]
